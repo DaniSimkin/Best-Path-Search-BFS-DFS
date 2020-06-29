@@ -1,0 +1,9 @@
+﻿  CompareNodes.cpp
+  Edge.cpp
+  Graph.cpp
+  main.cpp
+C:\Users\diker\source\repos\AI_YigalDani\First\First\main.cpp(101,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diker\source\repos\AI_YigalDani\First\First\main.cpp(104,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Node.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
